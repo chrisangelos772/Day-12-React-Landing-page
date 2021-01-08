@@ -11,3 +11,23 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.jumbotron{
+    margin-top: 56px;
+    max-width: 90%;
+}
+
+.btn{
+    width: 200px;
+    justify-content: center;
+}
+
+.footer {
+    font-size: 22px;
+    background-color: rgb(83, 83, 83);
+    color: white;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
